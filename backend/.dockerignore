@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ecom-etl-backend-api/
+.git
+.gitignore
+*.sqlite3
+*.db
+.env
+node_modules
